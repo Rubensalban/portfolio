@@ -1,106 +1,177 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "name": "Rubens Alban Mouko",
+    "label": "Senior Mobile Developer & Back-End",
+    "image": "/me_avatar.png",
+    "email": "hello@rubensalban.com",
+    "phone": "+242044913233",
+    "url": "https://rubensalban.com",
+    "summary": "Développeur expérimenté en Flutter et Node.js avec une solide expérience en développement backend et mobile. Passionné par la création d'applications performantes et sécurisées, je suis spécialisé dans l'intégration d'API et le développement de solutions fintech.",
+    "theme": "red",
     "location": {
-      "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "city": "Pointe-Noire",
+      "countryCode": "CG",
+      "region": "République du Congo"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "Rubens Alban Mouko",
+        "url": "https://www.linkedin.com/in/rubens-alban-mouko-942845131/"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "rubensalban",
+        "url": "https://github.com/rubensalban"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": [
-        "Improved website performance by optimizing code"
-      ],
-      "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
-      ],
-      "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
-      ]
-    },
-    {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
-      "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
-      "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
-      ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
+      "name": "NYOTA",
+      "position": "Développeur Backend & Applications",
       "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "location": "Pointe-Noire, République du Congo",
+      "url": "https://nyota.com",
+      "startDate": "2023-07-01",
+      "endDate": "2025-01-31",
+      "summary": "Développement des applications mobiles Nyota Pay, La Pointe Supermarché, et Casino Supermarket, ainsi que de l'API pour l'écosystème Nyota Pay. Responsable de l'intégration d'API externes (Airtel Money, MTN Mobile Money, UBA Bank).",
       "highlights": [
-        "Completed several client projects successfully"
+        "Développement de multiples applications mobiles et d'une API pour l'écosystème monétaire Nyota Pay.",
+        "Intégration réussie des API externes dans l'écosystème Nyota Pay."
+      ],
+      "responsibilities": [
+        "Conception et développement des applications mobiles Nyota Pay, La Pointe Supermarché, et Casino Supermarket.",
+        "Création et gestion de l'API de l'écosystème Nyota Pay.",
+        "Intégration des API externes telles qu'Airtel Money, MTN Mobile Money, et UBA Bank pour assurer une interopérabilité fluide."
+      ],
+      "achievements": [
+        "Création d'un écosystème d'applications mobiles et d'API facilitant des paiements mobiles sécurisés.",
+        "Mise en place réussie des solutions d'intégration avec des services financiers mobiles."
       ],
       "skills": [
-        "HTML",
-        "CSS"
+        "Flutter",
+        "Dart",
+        "Golang",
+        "API Development",
+        "Database Management"
+      ]
+    },
+    {
+      "name": "Yellobox Technologies",
+      "position": "Consultant Développeur Backend & Mobiles",
+      "location_type": "Remote",
+      "location": "Pointe-Noire, République du Congo",
+      "url": "https://yelloboxtech.com",
+      "startDate": "2023-02-01",
+      "endDate": "Present",
+      "summary": "Conception et développement de l'application mobile RM-Fit et du logiciel de gestion interne RM-Fitness pour une gestion optimisée des salles de sport.",
+      "highlights": [
+        "Création de l'application mobile RM-Fit et du logiciel de gestion de salles de sport RM-Fitness."
+      ],
+      "responsibilities": [
+        "Développement de l'application mobile RM-Fit pour une gestion complète de la santé et du bien-être des utilisateurs.",
+        "Création du logiciel de gestion interne pour la salle de sport RM-Fitness, permettant une gestion efficace des membres et des activités."
+      ],
+      "achievements": [
+        "Mise en place d'une solution logicielle complète pour une gestion optimisée des salles de sport et des activités des membres."
+      ],
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Android",
+        "Vue.js",
+        "Nuxt.js",
+        "Node.js",
+        "Database Management"
+      ]
+    },
+
+    {
+      "name": "PNUD",
+      "position": "Consultant Développeur Mobile",
+      "location_type": "Remote",
+      "location": "Pointe-Noire, République du Congo",
+      "url": "https://undp.org",
+      "startDate": "2021-11-01",
+      "endDate": "2022-01-31",
+      "summary": "Développement de la plateforme mobile Moon-Pharma, en optimisant l'expérience utilisateur et en assurant la compatibilité multiplateforme pour le Programme des Nations Unies pour le développement (PNUD).",
+      "highlights": [
+        "Conception et développement de la plateforme mobile Moon-Pharma pour le PNUD."
+      ],
+      "responsibilities": [
+        "Développement de l'application mobile Moon-Pharma en tant que consultant pour le PNUD.",
+        "Optimisation de l'expérience utilisateur et gestion de la compatibilité multiplateforme pour une expérience fluide sur toutes les plateformes mobiles."
+      ],
+      "achievements": [
+        "Livraison réussie de l'application mobile Moon-Pharma dans les délais impartis."
+      ],
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Mobile Application Development",
+        "PostgreSQL",
+        "Node.js",
+        "API Development"
+      ]
+    },
+    {
+      "name": "MAJI Technologies",
+      "position": "Consultant Développeur Backend, Mobile & Web",
+      "location_type": "Remote",
+      "location": "Pointe-Noire, République du Congo",
+      "url": "https://majitech.com",
+      "startDate": "2021-06-01",
+      "endDate": "Present",
+      "summary": "Développement d'applications clés telles que l'application de paris sportifs Paris SMS, l'application mobile Direct Cash In, et le système de gestion des transactions Direct Cash In. Participation à la création d'applications innovantes pour des solutions mobiles et web.",
+      "highlights": [
+        "Conception et développement d'applications mobiles et web pour des projets variés, y compris les paris sportifs et les transferts d'argent."
+      ],
+      "responsibilities": [
+        "Développement d'applications mobiles et web pour des projets variés, incluant Paris SMS et Direct Cash In.",
+        "Création d'un dashboard de statistiques pour suivre les transactions de l'application Direct Cash In.",
+        "Participation active à l'intégration des fonctionnalités front-end de l'application de paris sportifs."
+      ],
+      "achievements": [
+        "Développement d'une application mobile de paris sportifs innovante et d'une plateforme de paiement mobile sécurisée.",
+        "Création d'un système de gestion des transactions efficace pour les utilisateurs de Direct Cash In."
+      ],
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Android",
+        "Node.js",
+        "React Native",
+        "MongoDB",
+        "API Development",
+        "Database Management"
+      ]
+    },
+    {
+      "name": "BRIDGE TECHNOLOGIE",
+      "position": "Développeur Backend",
+      "location_type": "On site",
+      "location": "Pointe-Noire, République du Congo",
+      "url": "https://bridgetech.com",
+      "startDate": "2022-09-01",
+      "endDate": "2023-02-28",
+      "summary": "Maintenance et développement de la plateforme de gestion des procédures pour la Brasserie du Congo (Brasco). Conception de nouvelles fonctionnalités pour le site internet de l'entreprise.",
+      "highlights": [
+        "Optimisation de la plateforme de gestion des procédures pour la Brasserie du Congo."
+      ],
+      "responsibilities": [
+        "Maintenance et mise à jour de la plateforme web de gestion des procédures de Brasco.",
+        "Création et développement de nouvelles fonctionnalités pour améliorer la visibilité de Brasco en ligne."
+      ],
+      "achievements": [
+        "Amélioration de la gestion des procédures et de la visibilité en ligne de Brasco."
+      ],
+      "skills": [
+        "PHP",
+        "Laravel",
+        "JavaScript",
+        "Web Development",
+        "MySQL"
       ]
     }
   ],
@@ -119,8 +190,8 @@
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
+      "institution": "Administration et sécurité sous Linux",
+      "url": "https://yekolab.com",
       "area": "Computer Science",
       "studyType": "Bachelor",
       "startDate": "2018-09-01",
@@ -132,10 +203,10 @@
       ]
     },
     {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
+      "institution": "Licence professionnelle, Réseaux et Télécom",
+      "url": "https://istc-epp.com",
+      "area": "Réseaux et Télécom",
+      "studyType": "Licence",
       "startDate": "2020-09-01",
       "endDate": "2022-12-01",
       "score": "3.9",
@@ -160,28 +231,122 @@
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
+      "name": "Flutter",
       "date": "2023-05-01",
-      "issuer": "Online University",
+      "issuer": "LinkedIn",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    },
+    {
+      "name": "Node.js",
+      "date": "2023-05-01",
+      "issuer": "LinkedIn",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    },
+    {
+      "name": "Laravel",
+      "date": "2023-05-01",
+      "issuer": "LinkedIn",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    },
+    {
+      "name": "NuxtJs",
+      "date": "2023-05-01",
+      "issuer": "LinkedIn",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    },
+    {
+      "name": "CompTIA Security+(CYO-601)",
+      "date": "2023-05-01",
+      "issuer": "LinkedIn",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    },
+    {
+      "name": "Docker",
+      "date": "2023-05-01",
+      "issuer": "LinkedIn",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    },
+    {
+      "name": "Conception et mise en œuvre d'API RESTful",
+      "date": "2023-05-01",
+      "issuer": "LinkedIn",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    },
+    {
+      "name": "Sécurisation des réseaux sur serveur Linux",
+      "date": "2023-05-01",
+      "issuer": "LinkedIn",
+      "url": "https://onlineuniversity.com/certificates/fullstack"
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "date": "2023-05-01",
+      "issuer": "LinkedIn",
       "url": "https://onlineuniversity.com/certificates/fullstack"
     }
   ],
   "skills": [
     {
-      "name": "Figma",
+      "name": "Flutter",
       "level": "Expert",
       "keywords": [
-        "Design",
-        "UI"
+        "Mobile Development",
+        "Frontend"
       ]
     },
     {
-      "name": "Gitlab",
+      "name": "JavaScript",
       "level": "Intermediate",
       "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Dart",
+      "level": "Expert",
+      "keywords": [
+        "Mobile Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Vue",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "Golang",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Go"
       ]
     },
     {
@@ -202,16 +367,6 @@
       ]
     },
     {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
       "name": "Tailwind",
       "level": "Intermediate",
       "keywords": [
@@ -222,31 +377,44 @@
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
       "name": "MySQL",
       "level": "Intermediate",
       "keywords": [
         "Databases",
         "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+
+    {
+      "name": "PostgreSQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "NoSQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Firebase",
+      "level": "Intermediate",
+      "keywords": [
+        "Authentification",
+        "Notification",
+        "Databases",
+        "NoSQL",
         "Data Storage",
         "Backend"
       ]
@@ -271,24 +439,33 @@
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Beginner",
+      "name": "Gitlab",
+      "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
       ]
     },
     {
-      "name": "React",
+      "name": "Docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Containerization",
+        "Docker",
+        "Docker Compose"
+      ]
+    },
+    {
+      "name": "NuxtJs",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
         "Frontend",
-        "JavaScript Library",
-        "UI"
+        "VueJs Framework",
+        "SSR",
+        "Static Generation"
       ]
     }
   ],
@@ -319,7 +496,7 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
+      "name": "La Pointe Supermarket",
       "isActive": false,
       "description": "A personal portfolio website to showcase my projects and skills.",
       "highlights": [
@@ -330,7 +507,7 @@
       "github": "https://github.com"
     },
     {
-      "name": "Weather App",
+      "name": "NyotaPay",
       "isActive": true,
       "description": "A web application that provides weather information for any location.",
       "highlights": [
@@ -340,7 +517,7 @@
       "url": "https://weatherapp.com"
     },
     {
-      "name": "Task Manager",
+      "name": "Casino Supermarker",
       "isActive": true,
       "description": "A simple task management app to keep track of daily tasks.",
       "highlights": [
@@ -351,7 +528,158 @@
       "github": "https://github.com"
     },
     {
-      "name": "E-commerce Site",
+      "name": "Franprix",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "highlights": [
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
+    },
+    {
+      "name": "Boas",
+      "isActive": true,
+      "description": "A simple task management app to keep track of daily tasks.",
+      "highlights": [
+        "Built with Node.js and MongoDB",
+        "User authentication and CRUD operations"
+      ],
+      "url": "https://taskmanager.com",
+      "github": "https://github.com"
+    },
+    {
+      "name": "Boas Driver",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "highlights": [
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
+    },
+    {
+      "name": "Moon-Pharma",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "highlights": [
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
+    },
+    {
+      "name": "Direct Cash in",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "highlights": [
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
+    },
+    {
+      "name": "Easy Voyage",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "highlights": [
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
+    },
+    {
+      "name": "Paris SMS",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "highlights": [
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
+    },
+    {
+      "name": "Taxe Pay",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "highlights": [
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
+    },
+    {
+      "name": "Taxe Pay Caisse",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "highlights": [
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
+    },
+    {
+      "name": "ENDE",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "highlights": [
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
+    },
+    {
+      "name": "RM Fit",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "highlights": [
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
+    },
+    {
+      "name": "FlyZik",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "highlights": [
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
+    },
+    {
+      "name": "Favour Shop",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "highlights": [
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
+    },
+    {
+      "name": "Spawn VTC",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "highlights": [
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
+    },
+    {
+      "name": "ORCA",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "highlights": [
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
+    },
+    {
+      "name": "Ngav Group",
       "isActive": false,
       "description": "An online store built with Next.js and Stripe for payment processing.",
       "highlights": [
