@@ -28,6 +28,36 @@
   },
   "work": [
     {
+      "name": "GAD Digital",
+      "position": "Consultant Développeur Mobile Flutter",
+      "location_type": "Remote",
+      "location": "Brazzaville, République du Congo",
+      "url": "https://gaddigital.io/",
+      "startDate": "2025-01-01",
+      "endDate": "2025-02-01",
+      "summary": "Consultant Flutter chargé de la mise à jour et de l'optimisation des interfaces de l'application mobile Emi AI. Collaboration étroite avec l'équipe produit et UI/UX pour améliorer l'expérience utilisateur.",
+      "highlights": [
+        "Refonte et mise à jour des interfaces utilisateur de l'application mobile Emi AI",
+        "Amélioration de la fluidité et de la cohérence visuelle de l'application"
+      ],
+      "responsibilities": [
+        "Analyser et mettre à jour les composants UI en Flutter selon les nouvelles directives de design",
+        "Collaborer avec l’équipe produit pour assurer la conformité des maquettes UI/UX",
+        "Effectuer des tests fonctionnels pour garantir la stabilité des nouvelles interfaces",
+        "Optimiser les performances de l'application mobile"
+      ],
+      "achievements": [
+        "Livraison des nouvelles interfaces utilisateur et les standards de qualité"
+      ],
+      "skills": [
+        "Flutter",
+        "Dart",
+        "UI/UX",
+        "Mobile Development",
+        "Remote Collaboration"
+      ]
+    },
+    {
       "name": "NYOTA",
       "position": "Développeur Backend & Applications",
       "location_type": "Remote",
@@ -86,7 +116,6 @@
         "Database Management"
       ]
     },
-
     {
       "name": "PNUD",
       "position": "Consultant Développeur Mobile",
@@ -112,6 +141,32 @@
         "Mobile Application Development",
         "PostgreSQL",
         "Node.js",
+        "API Development"
+      ]
+    },
+    {
+      "name": "Google Africa Developer Scholarship (GADS) - Andela",
+      "position": "Mentor - Mobile Web Specialist",
+      "location_type": "Remote",
+      "location": "Lagos, Nigeria",
+      "url": "https://www.andela.com",
+      "startDate": "2021-06-07",
+      "endDate": "2021-09-30",
+      "summary": "Accompagnement et mentorat des développeurs participants au programme GADS 2021, avec un focus sur le développement mobile web. Animation de sessions techniques et suivi personnalisé pour favoriser la montée en compétences des apprenants.",
+      "responsibilities": [
+        "Mentorat de plusieurs développeurs dans le domaine du Mobile Web",
+        "Animation d’ateliers techniques et sessions de questions/réponses",
+        "Contribution active à la réussite des apprenants durant le programme"
+      ],
+      "skills": [
+        "Mobile Development",
+        "Cross-Platform",
+        "UI/UX",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vue.js",
+        "TypeScript",
         "API Development"
       ]
     },
@@ -173,18 +228,82 @@
         "Web Development",
         "MySQL"
       ]
+    },
+    {
+      "name": "Google Developer Group (GDG) Pointe-Noire",
+      "position": "Formateur Développeur Mobile Android Native",
+      "location_type": "On site",
+      "location": "Pointe-Noire, République du Congo",
+      "url": "https://developers.google.com/community/gdg",
+      "startDate": "2018-09-01",
+      "endDate": "2020-01-01",
+      "summary": "En tant que formateur pour le GDG Pointe-Noire, j’ai animé des ateliers et formé des développeurs sur le développement mobile Android natif, en utilisant Java et Kotlin. J’ai contribué à renforcer les compétences de la communauté locale de développeurs.",
+      "highlights": [
+        "Organisation et animation de plus de 10 ateliers techniques Android.",
+        "Formation de plus de 100 développeurs locaux aux bases et aux pratiques avancées du développement Android.",
+        "Encadrement des participants dans la réalisation de projets mobiles concrets."
+      ],
+      "responsibilities": [
+        "Préparer et animer des sessions de formation autour d’Android Studio, Java et Kotlin.",
+        "Accompagner les apprenants dans la mise en pratique des concepts abordés.",
+        "Collaborer avec les autres membres du GDG pour organiser des événements techniques."
+      ],
+      "achievements": [
+        "Contribution active à la montée en compétence de la communauté tech locale.",
+        "Création de supports pédagogiques réutilisés par d’autres groupes GDG."
+      ],
+      "skills": [
+        "Android",
+        "Java",
+        "Kotlin",
+        "Android Studio",
+        "Formation",
+        "Mentorat"
+      ]
+    },
+    {
+      "name": "Freelance",
+      "position": "Développeur logiciel",
+      "location_type": "Remote",
+      "location": "Pointe-Noire, République du Congo",
+      "startDate": "2018-09-01",
+      "endDate": "2019-10-01",
+      "summary": "Consultant en développement .NET, j'ai participé à la conception et au développement d'applications de gestion sportive et éducative.",
+      "highlights": [
+        "Développement d'un logiciel de gestion de matchs de football incluant la génération de tickets.",
+        "Conception d'une application de gestion des apprenants pour Entraide Congo."
+      ],
+      "responsibilities": [
+        "Analyse des besoins des clients et rédaction des spécifications techniques.",
+        "Développement d'applications desktop en C# et .NET Framework.",
+        "Conception de bases de données SQL Server adaptées aux besoins des projets.",
+        "Maintenance corrective et évolutive des logiciels livrés."
+      ],
+      "achievements": [
+        "Livraison réussie de deux applications utilisées en production.",
+        "Optimisation des performances des logiciels pour une utilisation fluide."
+      ],
+      "skills": [
+        ".NET",
+        "C#",
+        "SQL Server",
+        "Software Architecture",
+        "Desktop Application Development"
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
+      "organization": "Google Developer Group (GDG) Pointe-Noire",
+      "position": "Formateur Volontaire - Développeur Mobile Android Native",
+      "url": "https://developers.google.com/community/gdg",
+      "startDate": "2018-09-01",
+      "endDate": "2020-01-01",
+      "summary": "En tant que formateur volontaire, j'ai animé des ateliers et encadré les développeurs débutants et intermédiaires sur les bonnes pratiques du développement mobile Android en Java et Kotlin.",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
+        "Organisation de plus de 10 ateliers techniques autour du développement mobile natif Android.",
+        "Formation de plus de 100 développeurs locaux aux fondamentaux et avancés du développement mobile.",
+        "Accompagnement personnalisé des participants dans la réalisation de projets mobiles."
       ]
     }
   ],
@@ -216,16 +335,17 @@
       ]
     },
     {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
+      "institution": "Lycée LVA",
+      "url": "https://lva.edu",
+      "area": "Baccalauréat Scientifique, Série D",
+      "studyType": "Baccalauréat",
+      "startDate": "2015-09-01",
+      "endDate": "2018-06-01",
+      "score": "N/A",
       "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
+        "Mathématiques",
+        "Physique-Chimie",
+        "Sciences de la Vie et de la Terre"
       ]
     }
   ],
@@ -234,55 +354,49 @@
       "name": "Flutter",
       "date": "2023-05-01",
       "issuer": "LinkedIn",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "url": "https://www.linkedin.com/learning/certificates/6b8f4b3fc43c1f411dbaa132be43d5b5bfec1f94a929bee32a84d84a90bed858"
     },
     {
       "name": "Node.js",
       "date": "2023-05-01",
       "issuer": "LinkedIn",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "url": "https://www.linkedin.com/learning/certificates/08f43f2adf697c958995b90b1ff47111e812b6022615052d2146069eaff01869"
     },
     {
-      "name": "Laravel",
+      "name": "Git",
       "date": "2023-05-01",
       "issuer": "LinkedIn",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "url": "https://www.linkedin.com/learning/certificates/c4986d8fdcb151077a13a9d7d7a827a5e6f80a0d4e50e0d4f9ceadc8ea73f28c"
     },
     {
-      "name": "NuxtJs",
-      "date": "2023-05-01",
+      "name": "La sécurité des applications et des protocoles réseau",
+      "date": "2022-05-01",
       "issuer": "LinkedIn",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "url": "https://www.linkedin.com/learning/certificates/11aff2f77e741e2b3ee30da460233ee7327167430cd4d7bd4a7c326c5ec17e69"
     },
     {
       "name": "CompTIA Security+(CYO-601)",
       "date": "2023-05-01",
       "issuer": "LinkedIn",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "url": "https://www.linkedin.com/learning/certificates/f30ca09091e4c96ea52ac811e9c0cf35edd23749528cacad732c45e234ec3ecb?trk=backfilled_certificate"
     },
     {
-      "name": "Docker",
+      "name": "Scrum",
       "date": "2023-05-01",
       "issuer": "LinkedIn",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "url": "https://www.linkedin.com/learning/certificates/f1224526a528cb571ea35c801d20d873bfade0ba80923d9bb936da867c53e57a"
     },
     {
       "name": "Conception et mise en œuvre d'API RESTful",
       "date": "2023-05-01",
       "issuer": "LinkedIn",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
-    },
-    {
-      "name": "Sécurisation des réseaux sur serveur Linux",
-      "date": "2023-05-01",
-      "issuer": "LinkedIn",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "url": "https://www.linkedin.com/in/rubens-alban-mouko-942845131/details/certifications/"
     },
     {
       "name": "Amazon Web Services (AWS)",
       "date": "2023-05-01",
       "issuer": "LinkedIn",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "url": "https://www.linkedin.com/learning/certificates/53cf6c3ff546d177142f041a4f655e4c19765e1d3948943382fc3e1f3282b324?trk=backfilled_certificate"
     }
   ],
   "skills": [
@@ -386,7 +500,6 @@
         "Backend"
       ]
     },
-
     {
       "name": "PostgreSQL",
       "level": "Intermediate",
@@ -458,6 +571,16 @@
       ]
     },
     {
+      "name": ".NET",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "C#",
+        ".NET Framework"
+      ]
+    },
+    {
       "name": "NuxtJs",
       "level": "Intermediate",
       "keywords": [
@@ -497,196 +620,247 @@
   "projects": [
     {
       "name": "La Pointe Supermarket",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "NyotaPay",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "Application mobile de carte de fidélité pour le supermarché La Pointe, permettant aux clients de cumuler des points et suivre leurs avantages.",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Développée avec Flutter pour une expérience fluide sur Android et iOS.",
+        "Backend réalisé avec Nuxt.js et base de données PostgreSQL.",
+        "Mise en place d'un système de gestion de points de fidélité et d'un tableau de bord client."
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://play.google.com/store/apps/details?id=cg.rbns.nyota.lapointe"
     },
     {
-      "name": "Casino Supermarker",
+      "name": "Nyota Pay",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "description": "Application Fintech mobile innovante permettant aux clients de recevoir et stocker leur petite monnaie sous forme digitale directement dans leur compte Nyota Pay.",
       "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
+        "Développée sous Flutter pour Android et iOS.",
+        "Backend basé sur Node.js et Nuxt.js pour une API performante et sécurisée.",
+        "Permet aux utilisateurs de récupérer la monnaie non rendue lors de leurs achats et de la cumuler dans l'application.",
+        "Réduction des frustrations liées au manque de petite monnaie dans les commerces."
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": "https://play.google.com/store/apps/details?id=cg.rbn.nyota.nyotapay"
     },
     {
-      "name": "Franprix",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "name": "Ma carte Casino",
+      "isActive": true,
+      "description": "L'application récompense la fidélité des clients du supermarché Casino en leur permettant d'accumuler du cashback à chaque achat, convertible en bons d'achat à tout moment.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Développée sous Flutter pour Android et iOS.",
+        "Backend réalisé avec Node.js et Nuxt.js pour une API performante et sécurisée.",
+        "Mise en place d'un système de gestion de points de fidélité et d'un tableau de bord client."
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://apps.apple.com/us/app/casino-by-nyota/id1634947597"
+    },
+    {
+      "name": "Score by Nyota",
+      "isActive": true,
+      "description": "Faites vos courses en toute simplicité avec Score by Nyota! Profitez d'une expérience d'achat en ligne fluide et rapide pour tous vos besoins quotidiens.",
+      "highlights": [
+        "Large sélection de produits : Découvrez une vaste gamme de produits, des aliments frais aux articles ménagers, directement depuis votre smartphone.",
+        "Achat en ligne facile : Ajoutez vos articles préférés à votre panier en quelques clics et passez votre commande en toute simplicité.",
+        "Deux options de retrait : Choisissez de récupérer vos courses en magasin ou optez pour la livraison à domicile.",
+        "Offres et promotions exclusives : Bénéficiez des meilleures offres directement dans l'application.",
+        "Suivi de commande en temps réel : Soyez informé dès que votre commande est prête.",
+        "Service client dédié : Notre équipe est à votre disposition pour répondre à toutes vos questions."
+      ],
+      "url": "https://play.google.com/store/apps/details?id=cg.nyota.casinomobile"
     },
     {
       "name": "Boas",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "description": "Application mobile tout-en-un pour la réservation de taxi, la réservation d'hôtels, les loisirs et les services VTC, conçue sous Flutter pour une expérience fluide et rapide.",
       "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
+        "Réservation de taxi et VTC en quelques clics.",
+        "Booking d'hôtels avec une large sélection d'options et d'offres.",
+        "Accès aux loisirs et activités à proximité selon vos préférences.",
+        "Conçue avec Flutter pour une performance optimale sur Android et iOS.",
+        "Interface utilisateur moderne et intuitive pour une expérience agréable."
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": "https://www.boasservices-afrique.com"
     },
     {
       "name": "Boas Driver",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "isActive": true,
+      "description": "Application mobile dédiée aux chauffeurs de l'application Boas, permettant de gérer les courses, les réservations, et d'optimiser les trajets.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Gestion des courses en temps réel avec notifications de réservation.",
+        "Suivi des itinéraires optimisés pour gagner du temps et économiser du carburant.",
+        "Gestion des paiements et des revenus directement via l'application.",
+        "Interface simple et intuitive pour une utilisation fluide.",
+        "Suivi des évaluations et retours des passagers."
       ],
-      "url": "https://ecommerce.com"
+     "url": "https://www.boasservices-afrique.com"
     },
     {
       "name": "Moon-Pharma",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "isActive": true,
+      "description": "Application mobile dédiée à la prise de rendez-vous avec des médecins, à la gestion de votre carte de santé virtuelle, et à l'achat de produits de santé en ligne.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Prise de rendez-vous facile avec des médecins de divers spécialistes.",
+        "Carte de santé virtuelle pour un accès rapide à vos informations médicales.",
+        "Achat de produits de santé directement depuis l'application avec paiement sécurisé.",
+        "Suivi des prescriptions et des traitements médicaux.",
+        "Accès à des conseils de santé personnalisés et à des offres exclusives sur des produits de santé."
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://moonpharmaapp.com"
     },
     {
       "name": "Direct Cash in",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "isActive": true,
+      "description": "Application fintech dédiée aux transferts d'argent rapides, sécurisés et faciles à l'international, avec des frais compétitifs.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Transfert d'argent instantané et sécurisé entre utilisateurs.",
+        "Prise en charge des devises internationales avec des frais de conversion transparents.",
+        "Suivi en temps réel des transferts et notifications de statut.",
+        "Interface simple et conviviale pour faciliter les transactions.",
+        "Options de paiement flexibles avec carte bancaire, virement ou portefeuille mobile."
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://play.google.com/store/apps/details?id=cg.rbns.majitechnologie.directcash"
     },
     {
       "name": "Easy Voyage",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "isActive": true,
+      "description": "Application mobile dédiée à la réservation de places pour les bus de voyage, avec une interface intuitive et des options de paiement flexibles.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Réservation de places pour les bus de voyage avec une interface intuitive.",
+        "Options de paiement flexibles avec carte bancaire, virement ou portefeuille mobile.",
+        "Suivi en temps réel des réservations et notifications de statut."
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://play.google.com/store/apps/details?id=cg.rbns.majitechnologie.easyvoyage"
     },
     {
       "name": "Paris SMS",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "isActive": true,
+      "description": "Application mobile dédiée à la gestion des paris sportifs, avec une interface intuitive et des options de paiement flexibles.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Gestion des paris sportifs avec une interface intuitive.",
+        "Options de paiement flexibles avec carte bancaire, virement ou portefeuille mobile.",
+        "Suivi en temps réel des paris et notifications de statut."
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://play.google.com/store/apps/details?id=cg.rbns.majitechnologie.parissms",
+      "github": "https://github.com/Rubensalban/PB-PariSMS"
     },
     {
       "name": "Taxe Pay",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "isActive": true,
+      "description": "Application mobile dédiée au paiement des taxes de marché pour les commerçants et entreprises auprès de la mairie de Brazzaville, facilitant les paiements rapides et sécurisés.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Paiement des taxes de marché en ligne de manière simple et sécurisée.",
+        "Suivi des paiements effectués et gestion des reçus fiscaux.",
+        "Système de notification pour rappeler les échéances de paiement.",
+        "Facilitation des démarches administratives pour les commerçants et entreprises.",
+        "Interface conviviale adaptée à tous les utilisateurs, même ceux sans connaissances techniques."
       ],
-      "url": "https://ecommerce.com"
-    },
-    {
-      "name": "Taxe Pay Caisse",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
+      "url": "https://taxepaybrazzaville.com"
     },
     {
       "name": "ENDE",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "isActive": true,
+      "description": "Application mobile dédiée au paiement des factures d'électricité pour les clients de l'entreprise d'électricité angolaise ENDE, permettant des paiements rapides et sécurisés.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Paiement des factures d'électricité ENDE en ligne de manière simple et sécurisée.",
+        "Consultation de l'historique des paiements et des consommations.",
+        "Notifications automatiques pour rappeler les dates d'échéance des factures.",
+        "Système de paiement sécurisé avec diverses options de règlement.",
+        "Interface intuitive et accessible pour tous les utilisateurs."
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://endeonline.ende.co.ao"
     },
     {
       "name": "RM Fit",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "isActive": true,
+      "description": "Application mobile et desktop dédiée à la gestion des salles de sport et de leurs abonnés, offrant une solution complète pour le suivi des adhésions, des paiements et des réservations de cours.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Gestion des abonnés : Suivi des adhésions, des paiements et des renouvellements d'abonnement.",
+        "Réservation des cours : Permet aux abonnés de réserver leurs séances de sport directement depuis l'application.",
+        "Gestion des horaires et des disponibilités des instructeurs.",
+        "Notifications et rappels : Envoi de rappels pour les séances, paiements et renouvellements.",
+        "Système de paiement sécurisé pour le règlement des abonnements et des produits dérivés.",
+        "Interface facile à utiliser, disponible sur mobile et desktop."
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://rmfitcongo.com"
     },
     {
       "name": "FlyZik",
       "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "description": "Application mobile de streaming musical, permettant d'écouter de la musique en ligne avec une vaste bibliothèque de titres et des playlists personnalisées.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Écoutez des millions de chansons en streaming sans publicité.",
+        "Création de playlists personnalisées et découverte de nouvelles musiques.",
+        "Qualité audio haute définition pour une expérience d'écoute optimale.",
+        "Interface intuitive et conviviale adaptée à tous les appareils mobiles.",
+        "Recommandations musicales basées sur vos préférences d'écoute."
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://flyzikapp.com"
     },
     {
       "name": "Favour Shop",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "isActive": true,
+      "description": "Application mobile dédiée à l'achat de nourriture en ligne, offrant une large gamme de produits alimentaires, des repas prêts à consommer, et une livraison rapide.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Large sélection de produits alimentaires frais et préparés.",
+        "Commande en ligne avec paiement sécurisé.",
+        "Livraison rapide directement à domicile ou au bureau.",
+        "Offres spéciales et promotions exclusives directement dans l'application.",
+        "Suivi en temps réel de la commande et de l'état de la livraison.",
+        "Interface utilisateur simple et intuitive pour une expérience de shopping fluide."
       ],
-      "url": "https://ecommerce.com"
+      "url": "http://godfavoursapp.com"
     },
     {
       "name": "Spawn VTC",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "isActive": true,
+      "description": "Site web de réservation de véhicules VTC offrant une expérience de transport rapide, confortable et sécurisé, avec des options de réservation flexibles.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Réservation de véhicules VTC en ligne en quelques clics.",
+        "Suivi en temps réel de l'arrivée des chauffeurs et du trajet.",
+        "Paiement sécurisé en ligne pour une expérience sans tracas.",
+        "Options de choix de véhicule selon les préférences (berline, SUV, etc.).",
+        "Interface conviviale adaptée à tous les utilisateurs sur mobile et desktop.",
+        "Notifications automatiques pour rappeler les détails de la réservation et l'heure de départ."
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://spawnvtc.com"
     },
     {
       "name": "ORCA",
       "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "description": "Application dédiée à la gestion des relations clients et à la gestion de la trésorerie des achats clients, permettant un suivi précis des transactions et des interactions.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Suivi des interactions et de l'historique des achats clients.",
+        "Gestion de la trésorerie avec des rapports détaillés sur les paiements et les soldes.",
+        "Système de gestion des paiements et des rappels automatiques pour les créances.",
+        "Analyse des données clients pour améliorer la relation client et optimiser les stratégies commerciales.",
+        "Interface intuitive pour une gestion efficace des clients et des finances.",
+        "Notifications et alertes sur les actions à entreprendre pour chaque client."
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://orcaapp.com"
     },
     {
       "name": "Ngav Group",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "isActive": true,
+      "description": "Site web vitrine de Ngav Group, une entreprise spécialisée dans [votre domaine d'activité], présentant ses services, produits et projets récents.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Présentation des services et produits de l'entreprise.",
+        "Informations détaillées sur l'entreprise, son histoire et son équipe.",
+        "Mise en avant des projets récents et des réalisations.",
+        "Contact facile via formulaire, email ou numéro de téléphone.",
+        "Design moderne et responsive pour une consultation fluide sur tous les appareils."
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://ngavgroup.com"
+    },
+    {
+      "name": "CEMACO",
+      "isActive": true,
+      "description": "Le site web du Centre de Médiation et d'Arbitrage du Congo (CEMACO), une institution de justice alternative visant à améliorer le climat des affaires en offrant des solutions de médiation et d'arbitrage selon les principes du traité OHADA.",
+      "highlights": [
+        "Mise en œuvre des procédures de médiation et d'arbitrage pour résoudre les conflits commerciaux.",
+        "Garantir une alternative rapide et efficace à la justice traditionnelle.",
+        "Assurer la sécurité juridique et la préservation des relations d'affaires.",
+        "Mise à disposition des informations détaillées sur les services, le règlement des différends et la procédure d'arbitrage.",
+        "Accès à des experts et praticiens qualifiés dans le domaine de la médiation et de l'arbitrage."
+      ],
+      "url": "https://www.cemacopnr.org/"
     }
   ]
 }
