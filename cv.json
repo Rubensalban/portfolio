@@ -594,18 +594,22 @@
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Français",
       "fluency": "Native speaker"
     },
     {
-      "language": "Spanish",
+      "language": "Anglais",
       "fluency": "Intermediate"
     }
   ],
   "interests": [
     {
-      "name": "Technology",
+      "name": "Technologie",
       "keywords": [
+        "Flutter",
+        "Node.js",
+        "Vue.js",
+        "Nuxt.js",
         "AI",
         "Blockchain"
       ]
